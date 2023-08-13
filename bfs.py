@@ -38,18 +38,3 @@ for i in range(n):     #loop taken because to check disconnected components
         bfs(ans,edges,i)
 print(ans) 
 
-
-        
-                
-
-
-
-
-
-
-
-
-    
-
-
-
