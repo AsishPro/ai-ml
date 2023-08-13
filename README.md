@@ -1,2 +1,17 @@
 # ai
 codes done in ai course 
+
+
+## week 1 
+1. bfs - traverse nodes each level wise(after one level then next level), mark as visited. uses queue datastructure to remember next neighbouring node.
+2. dfs - traverse in lift wize(top to bottom). here it can be used for detecting cycles which gives rise to topological sort
+topological_sort using dfs - topological sort (where each node which is completed processing is stored) in dfs instead of visited. 
+after visited each neighbouring node and loop completed it is marked completed or added to completed list to avoid further processing. (uses stack)
+3. topological_sort using bfs - also called kahn's algorithm with modification to bfs in which, in queue 0 indegree node is added instead of each level nodes. after adding to queue, node removed from graph(indegrees of others reduced) . 
+This gives linear ordering of how each node is traversed.
+4. Question of which Course solved first - done using dfs(easy to detect cycle by processing each node) - toposort.
+
+Remember point - Topological sort done on directed acyclic graph. - because in cycling graph there is no order(loop). so topo sort is used to detect cycles.
+
+
+Code outside this file.
