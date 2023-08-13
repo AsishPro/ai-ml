@@ -1,2 +1,2 @@
-# ai_lab
+# ai
 codes done in ai course 
