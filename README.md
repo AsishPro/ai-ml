@@ -15,4 +15,5 @@ This gives linear ordering of how each node is traversed.
 Remember point - Topological sort done on directed acyclic graph. - because in cycling graph there is no order(loop). so topo sort is used to detect cycles.
 
 
-Code outside this file.
+## Statespace
+* given a puzzle/matrix with one index as empty(-1) find all combinations possible according to given level
