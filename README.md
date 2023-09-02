@@ -1,5 +1,7 @@
 # ai
 codes done in ai course 
+roll AP21110011239
+cse N P. Asish Manoj Reddy
 
 
 ## week 1 
