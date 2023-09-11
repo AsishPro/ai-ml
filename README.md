@@ -19,3 +19,5 @@ Remember point - Topological sort done on directed acyclic graph. - because in c
 
 ## Statespace
 * given a puzzle/matrix with one index as empty(-1) find all combinations possible according to given level
+2. with heuristic:
+* class is declared which stores the matrix,parent id,heuristic. indexing done using id.
