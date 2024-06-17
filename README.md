@@ -1,7 +1,5 @@
 # ai
-codes done in ai course 
-roll AP21110011239
-cse N P. Asish Manoj Reddy
+codes done in ai course during semester 5
 
 
 ## week 1 
